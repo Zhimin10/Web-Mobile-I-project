@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+		<head>				
+				<meta charset="utf-8" />
+				<title>Zhimin Lin's Project 3 </title>
+				<link rel="stylesheet" type="text/css" href="assets/css/styles.css">
+	
+				<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.js"></script>
+				<script src="https://cloud.github.com/downloads/kopipejst/jqSnow/jquery.snow.js"></script>
+				
+				<script>
+				$(document).ready( function(){
+					$.fn.snow({ minSize: 5, maxSize: 50, newOn: 500, flakeColor: '#0099FF' });
+
+				});
+				</script>
+		</head>
